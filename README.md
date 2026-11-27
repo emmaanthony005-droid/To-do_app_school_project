@@ -1,2 +1,2 @@
 # To-do_app_school_project
-Creating a Simple To-do Planner Using Flutter
+Creating a Simple daily to-do Planner Using Flutter
